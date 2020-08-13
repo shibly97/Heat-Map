@@ -1,0 +1,27 @@
+#canverse{
+    background-color: rgb(243, 247, 247);
+}
+
+rect:hover{
+    opacity: 0.5;
+}
+
+#tooltip{
+    display: flex;
+    justify-content: center;    
+    font-size: 30px;
+    color: teal;
+}
+
+#legend{
+    /* background-color: yellow; */
+    display: flex;
+    margin: auto;
+    margin-top: 15px;
+}
+
+#description,#title{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
